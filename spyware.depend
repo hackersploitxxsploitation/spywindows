@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1686000763 source:c:\users\estan\onedrive\Área de trabalho\t\t.cbp\spyware\main.c
+	<stdio.h>
+	<stdlib.h>
+	"webcam.h"
+
+1686000536 source:c:\users\estan\onedrive\Área de trabalho\t\t.cbp\spyware\webcam.c
+	"webcam.h"
+
+1686000746 c:\users\estan\onedrive\Área de trabalho\t\t.cbp\spyware\webcam.h
+	<windows.h>
+	<vfw.h>
+	<stdio.h>
+
